@@ -1,6 +1,8 @@
 # TPS-PI09-repository
 
-Projet Ingénieur 09 Acquisition d'un modèle 3D pour la planification de tâches robotiques en utilisant ROS2
+Projet Ingénieur 09 Acquisition d'un modèle 3D pour la planification de tâches robotiques en utilisant ROS2,
+
+Hugo PAGÈS (chef d'équipe), Clémence DOVILLERS, Youssef NAITALI, Hugo MORO, Carl NORGATE
 
 ## Requirements
 
